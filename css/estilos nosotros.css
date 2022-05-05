@@ -1,0 +1,50 @@
+
+*{ padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+body{
+   
+    background: url(..img/tnc_52987642_Full.jpg) no-repeat;
+      background-size: cover;
+
+}
+
+.CAJAa{
+   width: 50vw;
+    background: rgba(211, 149, 16, 0.4);
+    padding: 20px;
+    text-align: center;
+      margin: 0 auto;
+     color: rgb(3, 36, 37);
+    border-radius: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 5%;
+}
+.caja-imagen{
+       border-radius: 50%;
+}
+.caja h1{
+    font-size: 40px;
+     letter-spacing: 4px;
+   font-weight: 100;
+    margin: 30px 0 20px;
+    font-family: 'Hanalei Fill', cursive;
+
+}
+
+h2{
+ 
+    font-size: 20px;
+       letter-spacing: 3px;
+  
+    font-weight: 100;
+        margin: 30px;
+      font-family: 'Amatic SC', cursive;
+}
+
+p{
+text-align: justify;
+    font-family: 'EB Garamond', serif;    
+}
